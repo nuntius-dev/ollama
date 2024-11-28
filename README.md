@@ -18,8 +18,8 @@ Asegúrate de tener instalado lo siguiente:
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/nuntius-dev/ollama.git
+   cd ollama
    ```
 2. **Construye la imagen de Docker:**
    ```bash
@@ -77,7 +77,7 @@ Este proyecto tiene licencia bajo la MIT License
 
 Este `README.md` proporciona información básica y debería ser un buen punto de partida para tu proyecto. ¡Si necesitas más ayuda, no dudes en preguntar!
 
-Si quieres saber como instalarlo en docker sigue esta guia: https://bit.ly/3CPLAyI
+Si quieres saber como instalarlo en docker sigue esta guia: [https://bit.ly/3CPLAyI](https://witmovil.com/guia-rapida-para-instalar-ollama-en-docker-easypanel-fastapi/)
 
 
 
