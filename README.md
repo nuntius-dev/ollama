@@ -71,15 +71,6 @@ Este proyecto debe ser ejecutado en un entorno seguro si planeas exponer la API 
 Contribuciones
 Las contribuciones son bienvenidas. Si tienes alguna mejora o corrección, no dudes en abrir un issue o una pull request.
 
-# Licencia
-Este proyecto tiene licencia bajo la MIT License
-### Consideraciones Finales
-
-1. **Personaliza los enlaces:** Asegúrate de cambiar `tu-usuario` y `tu-repo` por tus propios datos de GitHub.
-2. **Modifica ejemplos y textos:** Ajusta cualquier texto según lo que consideres necesario para que se ajuste a tu proyecto específico.
-3. **Agrega cualquier otra sección** que creas necesaria, como `Descripción detallada`, `Ejemplos adicionales`, `FAQ`, etc.
-
-Este `README.md` proporciona información básica y debería ser un buen punto de partida para tu proyecto. ¡Si necesitas más ayuda, no dudes en preguntar!
 
 Si quieres saber como instalarlo en docker sigue esta guia: [https://bit.ly/3CPLAyI](https://witmovil.com/guia-rapida-para-instalar-ollama-en-docker-easypanel-fastapi/)
 
