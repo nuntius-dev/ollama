@@ -4,6 +4,10 @@ Este repositorio proporciona un Dockerfile y una guía para desplegar Ollama con
 
 ![Captura de pantalla del escritorio](Foed.png)
 
+<a href="https://ko-fi.com/P5P013UUGZ">
+    <img src="https://github.com/nuntius-dev/badips/raw/main/kofi.png" alt="comprar cafe" width="150" />
+</a>
+
 ## Requisitos Previos
 
 Asegúrate de tener instalado lo siguiente:
@@ -12,7 +16,7 @@ Asegúrate de tener instalado lo siguiente:
 - [Docker Compose](https://docs.docker.com/compose/install/) (opcional, pero recomendado para facilitar la gestión de contenedores)
 
 ## Estructura del Proyecto
-/tu-proyecto ├── Dockerfile ├── app.py └── requirements.txt
+/proyecto ├── Dockerfile ├── app.py └── requirements.txt
 ## Instalación
 
 1. **Clona el repositorio:**
