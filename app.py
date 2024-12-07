@@ -1,6 +1,6 @@
 import logging
-import torch  # Asegúrate de importar torch aquí
-from fastapi import FastAPI, HTTPException  # Corregí el nombre FastAPI a mayúscula
+import torch  #importar torch
+from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from transformers import pipeline
 
@@ -21,8 +21,8 @@ app.add_middleware(
 )
 
 # Configuración del logger
-logging.basicConfig(level=logging.INFO)  # Asegúrate de que INFO está en mayúsculas
-logger = logging.getLogger(__name__)  # Corrige el nombre a getLogger
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 # Inicializar el pipeline de TinyLlama
 pipe = pipeline(
