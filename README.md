@@ -35,6 +35,7 @@ Asegúrate de tener instalado lo siguiente:
    ```
 ## Uso
 Una vez que el contenedor se esté ejecutando, puedes acceder a la API de Ollama en http://localhost:80.
+Para probar la IA, dirígete a http://tu-dominio.com/docs o http://localhost:80/docs
 
 Rutas de la API
 - GET /: Retorna un mensaje de bienvenida.
