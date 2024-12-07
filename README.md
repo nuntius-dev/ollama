@@ -16,7 +16,7 @@ Asegúrate de tener instalado lo siguiente:
 - [Docker Compose](https://docs.docker.com/compose/install/) (opcional, pero recomendado para facilitar la gestión de contenedores)
 
 ## Estructura del Proyecto
-/proyecto ├── Dockerfile ├── app.py └── requirements.txt
+├──proyecto ├── Dockerfile ├── app.py └── requirements.txt
 ## Instalación
 
 1. **Clona el repositorio:**
